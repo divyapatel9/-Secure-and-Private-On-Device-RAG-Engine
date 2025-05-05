@@ -1,0 +1,28 @@
+Here are the complete details of your four Microsoft certificates along with a brief description of each:
+
+1. Microsoft Certified: Azure Fundamentals (AZ-900)
+   - Date Issued: 06/25/2021
+   - Certificate Number: H872-1809
+   - Brief: This certification validates foundational knowledge of cloud services and how they are provided with Microsoft Azure. It covers core Azure services, cloud concepts, securiy, compliance, privacy, and Azure pricing and support. It’s ideal for individuals starting their journey in cloud computing.
+   - Description: The AZ-900 certification is designed for individuals who want to gain a foundational understanding of cloud computing and Microsoft Azure’s core services. It introduces key cloud concepts such as infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS), while also covering Azure’s global infrastructure, pricing models, and security features. This certification is ideal for beginners, whether technical or non-technical, who want to learn how cloud technologies work and how Azure can be used to support business operations. It provides a broad overview without requiring hands-on technical skills, making it a great starting point for anyone exploring a career in cloud computing.
+
+2. Microsoft Certified: Azure AI Fundamentals (AI-900)
+   - Date Issued: August 12, 2021
+   - Certificate Number: H938-4998
+   - Brief: This certification demonstrates knowledge of common AI workloads and considerations, as well as foundational principles of machine learning and AI concepts on Azure. It includes topics like natural language processing, computer vision, and conversational AI using Azure AI services.
+   - Description : AI-900 is an introductory certification for individuals interested in learning about artificial intelligence (AI) and how it’s applied using Microsoft Azure’s AI services. It explores fundamental AI concepts such as machine learning, computer vision, natural language processing, and conversational AI. The certification also introduces Azure Cognitive Services and Azure Machine Learning, showing how these tools can make AI accessible without deep programming knowledge. AI-900 is ideal for professionals and students who want to explore AI solutions, understand ethical considerations in AI, and gain awareness of how AI is transforming industries.
+
+3. Microsoft Certified: Azure Data Fundamentals (DP-900)
+   - Date Issued: 07/22/2021
+   - Certificate Number: H906-2615
+   - Brief: This certification showcases an understanding of core data concepts, including relational and non-relational data, big data, and analytics. It covers services like Azure SQL Database, Azure Cosmos DB, Azure Synapse Analytics, and Azure Databricks, preparing individuals to work with data in Azure.
+   - Description : DP-900 is a certification aimed at those seeking a basic understanding of data concepts within the Microsoft Azure platform. It covers topics such as relational and non-relational data, data storage options, big data, and data analytics solutions. The certification introduces key Azure services like Azure SQL Database, Azure Cosmos DB, and Azure Synapse Analytics, helping learners understand how data is stored, processed, and visualized in the cloud. DP-900 is well-suited for aspiring data professionals, business analysts, or anyone curious about how modern data solutions work in Azure, even without prior technical experience.
+
+
+4. Microsoft Certified: Power Platform Fundamentals (PL-900)
+   - Date Issued: 08/28/2021
+   - Certificate Number: H951-2442
+   - Brief: This certification validates the ability to leverage Microsoft Power Platform to improve business processes. It covers Power BI, Power Apps, Power Automate, and Power Virtual Agents, enabling individuals to create simple apps, automate workflows, and analyze data to drive business outcomes.
+   - Description : PL-900 focuses on introducing Microsoft Power Platform, a suite of tools that enables users to build apps, automate workflows, analyze data, and create chatbots without needing extensive coding skills. The certification covers key components such as Power Apps, Power BI, Power Automate, and Power Virtual Agents, emphasizing how they work together to improve business productivity and efficiency. It also touches on using Microsoft Dataverse to manage data and applying basic AI through AI Builder. PL-900 is ideal for business users, citizen developers, and professionals looking to leverage low-code solutions to solve business challenges and streamline processes.
+
+
