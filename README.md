@@ -26,4 +26,3 @@ This project implements an offline Retrieval Augmented Generation (RAG) chatbot.
     * Allows users to click on source information to open the original document.
 * **NLP Utilities:** Leverages NLTK for WordNet and spaCy (`en_core_web_sm`) for lemmatization and part-of-speech tagging.
 
-## Project Structure
